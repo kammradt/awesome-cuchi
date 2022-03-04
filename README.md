@@ -31,4 +31,7 @@ A categorized community-driven collection of awesome Cuchi libraries, tools, fra
 
 * [Arcuchicionado](https://github.com/henrilhos/arcuchicionado) - [You can access it here](https://arcuchicionado.vercel.app/). Ar Cuchicionado é um CaaS (Cuchi as a Service) para todos aqueles que estão sentindo calor e precisam se refrescar nesse clima tropical.
 
+## Fun and games
+* [Cuchile](https://github.com/VGasparini/cuchile) - [You can access it here](https://cuchile.vercel.app/). One of the most 2022 hyped games now with Cuchi's flavor. 
+
 
