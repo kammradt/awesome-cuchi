@@ -31,5 +31,14 @@ A categorized community-driven collection of awesome Cuchi libraries, tools, fra
 ## Sound and Music
 * [Arcuchicionado](https://github.com/henrilhos/arcuchicionado) - [You can access it here](https://arcuchicionado.vercel.app/). Ar Cuchicionado é um CaaS (Cuchi as a Service) para todos aqueles que estão sentindo calor e precisam se refrescar nesse clima tropical.
 
+<br>
+<br>
+
+# Next ideas :rocket:
+
+- A 2D snake-like game where Cuchi is eating a lot of beers and getting stronger  
+- An extension that will replace all images on the html to Cuchi images [example](https://chrome.google.com/webstore/detail/ncage/mpnfndnehgmmonhfcfdnaemdeokofgaf?hl=pt-BR)
+- An extension that will have a little Cuchi to mess around your browser [example](https://chrome.google.com/webstore/detail/shimeji-browser-extension/gohjpllcolmccldfdggmamodembldgpc)
+
 
 
