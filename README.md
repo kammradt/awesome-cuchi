@@ -19,7 +19,7 @@ A categorized community-driven collection of awesome Cuchi libraries, tools, fra
 
 
 ## Art
-* [ASCUCHIII](https://github.com/kammradt/ascuchiii) - [You can access it here](https://github.com/kammradt/ascuchiii/). computer A gem to get a cute ASCII cuchi easily aka ASCUCHIII computer. 
+* [ASCUCHIII](https://github.com/kammradt/ascuchiii) - [You can access it here](https://rubygems.org/gems/ascuchiii/). computer A gem to get a cute ASCII cuchi easily aka ASCUCHIII computer. 
 
 ## Fun and games
 * [Cuchile](https://github.com/VGasparini/cuchile) - [You can access it here](https://cuchile.vercel.app/). One of the most 2022 hyped games now with Cuchi's flavor. 
