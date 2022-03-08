@@ -10,11 +10,16 @@
 
 A categorized community-driven collection of awesome Cuchi libraries, tools, frameworks and software. The essential Cuchi to build modern Apps and Web Apps.
 
+* [Art](#art)
 * [Fun and Games](#fun-and-games)
 * [Genesis](#genesis)
 * [Gems and Libraries](#gems-and-libraries)
 * [Motivational](#motivational)
 * [Sound and Music](#sound-and-music)
+
+
+## Art
+* [ASCUCHIII](https://github.com/kammradt/ascuchiii) - [You can access it here](https://github.com/kammradt/ascuchiii/). computer A gem to get a cute ASCII cuchi easily aka ASCUCHIII computer. 
 
 ## Fun and games
 * [Cuchile](https://github.com/VGasparini/cuchile) - [You can access it here](https://cuchile.vercel.app/). One of the most 2022 hyped games now with Cuchi's flavor. 
