@@ -35,6 +35,7 @@ A categorized community-driven collection of awesome Cuchi libraries, tools, fra
 
 ## Sound and Music
 * [Arcuchicionado](https://github.com/henrilhos/arcuchicionado) - [You can access it here](https://arcuchicionado.vercel.app/). Ar Cuchicionado é um CaaS (Cuchi as a Service) para todos aqueles que estão sentindo calor e precisam se refrescar nesse clima tropical.
+* [Paulo Cuchi](https://suno.com/song/df500079-25ea-4efc-b60d-fa154042e289) - P-A-U-L-O C-U-C-H-I
 
 <br>
 <br>
